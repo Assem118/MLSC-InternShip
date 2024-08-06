@@ -1,2 +1,2 @@
-# Mid-Course-Project__MLSC-InternShip
+# MLSC-InternShip
 Data Science &amp; Machine Learning InternShip For Microsoft
