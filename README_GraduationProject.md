@@ -1,4 +1,4 @@
-# Graduation_Project_Part_1_MLSC_Internship
+# Near-Earth Objects (NEOs) Predictions
 
 ## Project Overview
 
